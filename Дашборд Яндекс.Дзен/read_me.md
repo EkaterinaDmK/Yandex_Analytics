@@ -19,5 +19,4 @@
 • Пайплайн разработан дата-инженерами сервиса Яндекс.Дзен.
 
 Презентация:  https://disk.yandex.ru/i/69tds58egHj4tA
-Ссылка на дашборд: [Яндекс Дзен | 
-Tableau Publi](https://public.tableau.com/app/profile/kate.tommo/viz/_16865677504320/sheet9#1)https://public.tableau.com/app/profile/kate.tommo/viz/_16865677504320/sheet9#1
+Ссылка на дашборд: https://public.tableau.com/app/profile/kate.tommo/viz/_16865677504320/sheet9#1)https://public.tableau.com/app/profile/kate.tommo/viz/_16865677504320/sheet9#1
