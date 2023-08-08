@@ -76,9 +76,9 @@
     
     
     
-- Презентация 
+- Презентация: https://disk.yandex.ru/i/0NQkv0WeCQflDg
     
-- Дашборд
+- Дашборд: https://public.tableau.com/app/profile/kate.korovkina/viz/_16888025661940/Dashboard2?publish=yes
     
 Каждый свой ход я буду подкреплять различными графиками для визуализации результатов.
     
